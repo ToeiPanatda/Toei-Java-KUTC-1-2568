@@ -36,6 +36,7 @@ public class MathBasic {
 
         MB = bytes = 5/1048576 ;
         System.out.println(total);
+        //
 
 
    }
