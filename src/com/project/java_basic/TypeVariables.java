@@ -12,6 +12,6 @@ public class TypeVariables {
         char A ='b';
         boolean result = false;
 
-        System.out.println(A+num+"Toei");
+        System.out.println(A+num+"Toei ");
     }
 }
